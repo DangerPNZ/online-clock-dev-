@@ -1,0 +1,7 @@
+$breakpoints: (
+  'tablet': ('(min-width: 768px)'),
+  'laptop': ('(min-width: 1024px)'),
+);
+$static-blue: rgb(0, 162, 255);
+$focus-blue: rgb(7, 98, 151);
+$disabled-gray: rgb(173, 173, 173);
